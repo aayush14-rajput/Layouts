@@ -1,0 +1,41 @@
+nav{
+
+    background-color: cadetblue;
+    height: 20vh;
+    padding: 0px 600px;
+    font-size: 50px;
+    color: aliceblue;
+}
+.container{
+
+    display: flex;
+    margin-top: 5px;
+    height: 60vh;
+}
+.box{
+
+    width: 25%;
+    background-color: bisque;
+    color: brown;
+    font-size: 50px;
+    padding: 0px 50px;
+}
+.box1{
+
+    background-color:darkorange;
+    width: 75%;
+    font-size: 50px;
+    padding: 0px 200px;
+    color:whitesmoke;
+}
+.fotter{
+    
+    height: 16vh;
+    margin: 5px 0px;
+    background-color: aquamarine;
+    font-size: 50px;
+    padding: 0px 400px;
+    color: blueviolet;
+}
+
+

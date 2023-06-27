@@ -1,0 +1,86 @@
+header{
+    background-color: rgb(190, 252, 129);
+    font-size: 30px;
+    height: 10vh;
+    padding: 10px 300px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    letter-spacing: 4px;
+}
+
+.box{
+    
+    display: flex;
+    height: 40vh;
+    margin: 5px 0px;
+}
+
+.box1{
+
+    width: 20%;
+    background-color: cadetblue;
+}
+.box2{
+
+    width: 20%;
+    background-color: plum;
+}
+.box3{
+
+    width: 20%;
+    background-color: powderblue;
+
+
+}
+
+.box4{
+    width: 20%;
+    background-color: rgb(255, 179, 28);
+
+
+}
+
+.box5{
+
+    width: 20%;
+    background-color: indianred;
+
+
+}
+
+.one{
+    height: 9vh;
+    background-color: goldenrod;
+    font-size: 22px;
+    padding: 5px 300px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing:5px;
+}
+.two{
+
+    height: 9vh;
+    background-color: rebeccapurple;
+    font-size: 22px;
+    padding: 5px 300px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing:5px;
+}
+.three{
+
+    height: 9vh;
+    background-color: khaki;
+    font-size: 22px;
+    padding: 5px 300px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing:5px;
+}
+footer{
+
+    background-color: grey;
+    height: 11vh;
+    padding: 5px 500px;
+    margin: 3px 0px;
+    font-size: 30px;
+    letter-spacing: 5px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}

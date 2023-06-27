@@ -1,0 +1,58 @@
+header{
+
+    background-color: black;
+    height: 8vh;
+    color: aliceblue;
+    font-size: 40px;
+    padding: 7px 400px;
+    letter-spacing: 7px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav{
+
+    margin-top: 5px;
+    height: 10vh;
+    padding: 5px 400px;
+    letter-spacing: 7px;
+    font-size: 40px;
+    background-color: cadetblue;
+}
+.box{
+    display: flex;
+    margin: 5px 0px;
+    height: 60vh;
+
+
+}
+
+.one{
+
+    background-color: blueviolet;
+    width: 25%;
+    font-size: 40px;
+    color: darkblue;
+
+}
+.two{
+    background-color: brown;
+    width: 50%;
+    font-size: 40px;
+    color: aliceblue;
+}
+.three{
+
+    background-color: chocolate;
+    width: 25%;
+    font-size: 40px;
+    color: darkblue;
+}
+.foot{
+
+    height: 15vh;
+    background-color: black;
+    color: aliceblue;
+    font-size: 40px;
+    padding: 0px 200px;
+    letter-spacing: 5px;
+}
